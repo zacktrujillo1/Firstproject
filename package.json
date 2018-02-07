@@ -1,0 +1,20 @@
+{
+  "name": "Firstproject",
+  "version": "1.0.0",
+  "description": "again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacktrujillo1/Firstproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacktrujillo1/Firstproject/issues"
+  },
+  "homepage": "https://github.com/zacktrujillo1/Firstproject#readme"
+}
